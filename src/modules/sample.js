@@ -13,7 +13,7 @@ const GET_USERS_FAILURE = "sample/GET_USERS_FAILURE";
 
 //thunk함수 생성
 export const getPost = createRequestThunk(GET_POST, api.getPost);
-export const getUSers = createRequestThunk(GET_USERS, api.getUsers);
+export const getUsers = createRequestThunk(GET_USERS, api.getUsers);
 
 //초기값
 const initialState = {
