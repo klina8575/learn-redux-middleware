@@ -1,4 +1,4 @@
-import CounterContainer from "./containers/CounterContainer";
+// import CounterContainer from "./containers/CounterContainer";
 import SampleContainer from "./containers/SampleContainer";
 
 function App() {
